@@ -1,4 +1,4 @@
-//By AlSch092 @github
+//By @ZeroOld
 #pragma once
 #include <windows.h>
 #include <winternl.h>
