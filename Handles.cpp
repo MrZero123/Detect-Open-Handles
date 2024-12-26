@@ -1,4 +1,4 @@
-//By AlSch092 @github
+//By @ZeroOld
 #include "Handles.hpp"
 #include <string>
 #include <Psapi.h>
